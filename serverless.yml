@@ -2,7 +2,7 @@ service: aws-infra
 
 provider:
   name: aws
-  runtime: nodejs6.10
+  runtime: nodejs10.16
   region: us-east-1
   role: infraLambda
   timeout: 30
@@ -109,4 +109,3 @@ resources:
           - arn:aws:iam::aws:policy/AWSCloudTrailReadOnlyAccess
 
         Path: /
-

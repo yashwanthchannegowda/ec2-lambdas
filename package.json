@@ -1,5 +1,5 @@
 {
-  "name": "sls-lambdas",
+  "name": "ec2-lambdas",
   "version": "1.0.0",
   "description": "",
   "main": "",
@@ -26,9 +26,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:octo-technology-downunder/sls-lambdas.git"
+    "url": "git@github.com:yashwanthchannegowda/ec2-lambdas.git"
   },
   "keywords": [],
-  "author": "OCTO Technology AU",
+  "author": "Vanitha Mallaiah",
   "license": "Apache-2.0"
 }

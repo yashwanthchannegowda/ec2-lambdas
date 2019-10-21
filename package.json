@@ -8,7 +8,7 @@
     "aws-sdk": "^2.143.0",
     "axios": "^0.17.1",
     "chai": "^4.1.2",
-    "csv-parse": "^2.0.0",
+    "csv-parse": "^4.4.6",
     "es6-promisify": "^6.0.0",
     "google-auth-library": "^0.9.7",
     "google-spreadsheet": "^2.0.3",

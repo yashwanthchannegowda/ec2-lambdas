@@ -6,7 +6,7 @@
   "dependencies": {
     "@slack/client": "^3.16.0",
     "aws-sdk": "^2.143.0",
-    "axios": "^0.17.1",
+    "axios": "^0.21.1",
     "chai": "^4.1.2",
     "csv-parse": "^2.0.0",
     "es6-promisify": "^6.0.0",

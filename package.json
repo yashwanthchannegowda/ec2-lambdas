@@ -13,7 +13,7 @@
     "google-auth-library": "^0.9.7",
     "google-spreadsheet": "^2.0.3",
     "googleapis": "^5.2.1",
-    "lodash": "^4.17.4",
+    "lodash": "^4.17.21",
     "mocha": "^5.0.0",
     "moment": "^2.20.1",
     "slack-node": "^0.1.8"

@@ -19,7 +19,7 @@
     "slack-node": "^0.1.8"
   },
   "devDependencies": {
-    "serverless-plugin-optimize": "^3.0.4-rc.1"
+    "serverless-plugin-optimize": "^4.2.1-rc.1"
   },
   "scripts": {
     "test": ""
